@@ -1,1 +1,2 @@
 Hello from A
+Hi po, from studentB.
