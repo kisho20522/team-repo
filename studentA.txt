@@ -1,2 +1,7 @@
 Hello from A
+<<<<<<< HEAD
+Hi, I am your thesis leaader... from studentC.
+=======
+Student A's edit
+>>>>>>> 4c8c150501d3ced90435ef857ea86da82564edae
 Hi, I am your thesis leaader... from studentC.
